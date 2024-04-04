@@ -1,5 +1,5 @@
 # Ex03 Time Table
-## Date: 14.03.24
+Name: Hari prasath.R.K
 
 ## AIM
 To write a html webpage page to display your slot timetable.
